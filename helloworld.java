@@ -1,5 +1,5 @@
 public class Test{
-	private String testString = "";
+	private String testString = "testString";
 	public Test()
 	{
 	
